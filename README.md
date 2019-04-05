@@ -8,6 +8,10 @@ v10最新版本，主控芯片换nxp了，全速USB，固件segger以后推出�
 以上说法来源于知乎Elliot Ge
 链接：https://www.zhihu.com/question/265263589/answer/418096522
 ## 二、软件和固件下载
-软件使用sam-ba2.18 for window，下载地址为https://www.microchip.com/developmenttools/ProductDetails/atmel%20sam-ba%20in-system%20programmer（官网，有可能失效）
+软件使用sam-ba2.18 for window，下载地址为https://www.microchip.com/developmenttools/ProductDetails/atmel%20sam-ba%20in-system%20programmer （官网，有可能失效，或者在release中有备份）
+https://github.com/sallenkey-wei/jlink-v8-firmware-repair/releases/tag/v0.1
 
-固件我是随便在网上找的，
+固件我是随便在网上找的，在release中下载即可
+
+## 剩余步骤请参考csdn https://blog.csdn.net/xiaoyink/article/details/89050209 
+此工程主要是备份软件和固件用
